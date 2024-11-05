@@ -93,4 +93,4 @@ The system provides visual feedback including:
 
 ## References
 1. [Facial landmarks with dlib, OpenCV, and Python](https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/)
-2. [Face landmark detection guide](https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/](https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker)
+2. [Face landmark detection guide](https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/](https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker))
